@@ -7,7 +7,7 @@
         <link href="/css/bootstrap.min.css" rel="stylesheet" />
     </head>
     <body>
-        <div class="container">
+         <div class="container">
             <h1>Novo Gênero</h1>
             <form action="/genero/insert" method="post">
                 <div class="form-group">
@@ -16,7 +16,7 @@
                 </div>
                 <br />
                 <a href="/genero/list" class="btn btn-primary" >Voltar</a>
-                <button type="submit" class="btn btn-success">Salvar</button>
+                 <button type="submit" class="btn btn-success">Salvar</button>
             </form>
         </div>
     </body>
